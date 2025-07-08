@@ -1,0 +1,18 @@
+p {
+    background-color: rgba(255, 100, 108, 0.678);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondelem {
+    color: blue;
+    font-size: 36px;
+}
+
+.font-change {
+    font-size: 24px;
+}
+
+#lg-background {
+    background-color: lightgreen;
+    font-weight: bold;
+}
